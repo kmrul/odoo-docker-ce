@@ -1,7 +1,8 @@
 # Setup Docker for Odoo 10 with pgAdmin Access
 
-# Follow for installation:
+### Follow article
 [odoo installation using odoo docker compose](http://kamrul.net/how-to-install-and-run-odoo-using-docker-compose/)
+
 
 
 ### Install docker:
