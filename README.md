@@ -1,6 +1,9 @@
 # Setup Docker for Odoo 12 with pgAdmin Access
 
 
+### Follow article
+[odoo installation using odoo docker compose](http://kamrul.net/how-to-install-and-run-odoo-using-docker-compose/)
+
 ### Install docker:
 ```
 $ sudo apt install docker.io
