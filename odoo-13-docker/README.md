@@ -35,3 +35,5 @@ password: odoo
 
 <img width="500px" src="https://github.com/kmrul/odoo-docker-ce/blob/master/odoo-13-docker/static/pg-access.png" alt="Postgres is working.">
 
+
+### [Please Follow My Blog](http://kamrul.net)
